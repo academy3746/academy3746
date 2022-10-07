@@ -1,8 +1,8 @@
-- 👋 코드오타쿠 해병님의 깃허브에 오신 것을 환영한다, 아쎄이!
-- 👀 우선 이곳에 자원해서 들어왔다면 희망을 버려라.
-- 🌱 향후 몇 년간은 서버사이드 언어로 PHP를 밀기로 했다.
-- 💞️ 그래도 Java Spring 공부도 틈틈이 하고 있다.
-- 📫 관심 있으면 DM 줘라. 여기에도 그런 게 있는지 모르겠지만...
+- 👋 Welcome to Code Otaku's Github.
+- 👀 First of all, if you have volunteered to come here, give up hope.
+- 🌱 For the next few years, I decided to push "PHP" as a server-side language.
+- 💞️ Still, I am studying Java Spring in my spare time.
+- 📫 I don't know if there is such a thing here, but if you're interested, send me a DM.
 
 <!---
 academy3746/academy3746 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
