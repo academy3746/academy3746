@@ -3,6 +3,7 @@
 - 🌱 For the next few years, I decided to push "PHP" as a server-side language.
 - 💞️ Still, I am studying Java Spring in my spare time.
 - 📫 I don't know if there is such a thing here, but if you're interested, send me a DM.
+- 😘 Korea horray!
 
 <!---
 academy3746/academy3746 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
