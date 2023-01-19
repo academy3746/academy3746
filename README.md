@@ -1,7 +1,6 @@
 - 👋 Welcome to Code Otaku's Github.
 - 👀 First of all, if you have volunteered to come here, give up hope.
 - 🌱 For the next few years, I decided to push "PHP" as a server-side language.
-- 💞️ Still, I am studying Java Spring in my spare time.
 - 📫 I don't know if there is such a thing here, but if you're interested, send me a DM.
 
 <!---
