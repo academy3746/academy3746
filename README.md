@@ -1,6 +1,6 @@
 - 👋 Welcome to Code Otaku's Github.
 - 👀 First of all, if you have volunteered to come here, give up hope.
-- 🌱 Developing various apps by adopting Flutter as a framework.
+- 🌱 Developing various apps by adopting Flutter as a framework.
 
 <!---
 academy3746/academy3746 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
