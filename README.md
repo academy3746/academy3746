@@ -1,5 +1,5 @@
 - 👋 Welcome to Code Otaku's Github.
-- 🏃‍♀️ More Skillful, More Meaningful, More Powerful to achieve goal.
+- 🏃‍♀️ More Skillful, More Meaningful, More Powerful.
 - 🌱 Developing various apps by adopting Flutter as a framework.
 
 <!---
